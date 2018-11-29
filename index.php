@@ -22,6 +22,9 @@
                   <li class="nav-item">
                     <a href="?pg=sobre" class="nav-link">Sobre</a>
                   </li>
+                  <li class="nav-item">
+                    <a href="?pg=contato" class="nav-link">Contato</a>
+                  </li>
                 </ul>
             </nav>
           </div>
